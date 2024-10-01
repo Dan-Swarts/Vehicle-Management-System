@@ -425,7 +425,7 @@ class Cli {
             }
           });
           if(!suceeded){
-            console.log('Selected Vehicle is not a truck. Cannot tow.');
+            console.log('Selected Vehicle is not a Motorbike. Cannot Wheelie.');
           }
         }
 

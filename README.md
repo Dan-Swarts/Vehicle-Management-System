@@ -7,9 +7,7 @@ Description
 ## 📁 Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Tests](#tests)
-- [Credits](#credits)
+- [Questions](#questions)
 - [Contributing](#contributing)
 
 ## Installation
@@ -17,6 +15,12 @@ Description
 ```shell
 # Clone this Repository:
 git clone https://github.com/Dan-Swarts/Vehicle-Management-System.git
+
+# This app requires Node.js to run. Use this command to check if Node.js is locally:
+node -v # Example output: v20.17.0
+
+# If Node.js isn't installed, follow instructions found here:
+# https://nodejs.org/en/learn/getting-started/how-to-install-nodejs
 
 # Install Dependencies:
 npm i
@@ -28,37 +32,36 @@ npm run start
 
 ## Usage
 
-- step 1
+- Start the program and look at the vehicle details:
 
-![Add a screenshot](assets/imgs/Screenshot%20(18).png)
+<a href="https://drive.google.com/file/d/1WIeu7tpdZ2QY_DyezDLDtunAXp_cUwY9/view?usp=drive_link">
+  <img src="assets/imgs/thumbnail.png" alt="Starting the Program" width="600" />
+</a>
 
-- step 2
+- Create a vehicle and add it to the list:
 
-## Features
+<a href="https://drive.google.com/file/d/1wqQK0AjDKryrx-52VIhDvKHbr3O2KZY-/view?usp=drive_link">
+  <img src="assets/imgs/thumbnail.png" alt="Creating a vehicle" width="600" />
+</a>
 
-- feature 1
+- Start, stop, and move the vehicles:
 
-- feature 2
+<a href="https://drive.google.com/file/d/1GK_aOZdKrBboaFz8nmYQaOGDNLES0nka/view?usp=drive_link">
+  <img src="assets/imgs/thumbnail.png" alt="Starting, stoping, and moving the vehicle" width="600" />
+</a>
 
-- feature 3
+- Tow other cars:
 
-## Tests
+<a href="https://drive.google.com/file/d/1yEJQB96c28eFJ7rfgc0ugAjvw5_vqUIA/view?usp=drive_link">
+  <img src="assets/imgs/thumbnail.png" alt="Tow cars" width="600" />
+</a>
 
-- test 1
-```shell
-# How to run the first test
+- Perform wheelies:
 
-```
-- test 2
-```shell
-# How to run the second test
+<a href="https://drive.google.com/file/d/1NyUuqTFeEURNQ51JErnzOS4kJ0F-Jgvm/view?usp=drive_link">
+  <img src="assets/imgs/thumbnail.png" alt="Perform wheelies" width="600" />
+</a>
 
-```
-- test 3
-```shell
-# How to run the third test
-
-```
 
 ## Questions
 If you have any questions about Vehicle Management System, contact me at danstraws@gmail.com.
